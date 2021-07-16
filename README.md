@@ -2,11 +2,6 @@
 
 ## Objective: Lariat is trying to make better decisions about the vehicles that they purchase for their national fleet.
 
-### Questions
-
-* Is there a diff between revenue at branches by airports and branches not by airports?
-
-* What are the top rentals at branches near airports vs not near airports
 
 ### Assumptions
 * Currently when a customer gets in an accident, they don't pay damages.
