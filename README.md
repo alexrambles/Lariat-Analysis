@@ -40,5 +40,5 @@
 ## Final Recommendations
 
 * Charge an accident fee.
-* Get rid of the bottom five cars (net revenue) to cut costs.
+* Get rid of the cars that come to a net negative to cut costs.
 * Invest in the newest year of the top 5 models (net revenue) in the fleet.
